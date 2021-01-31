@@ -1,4 +1,4 @@
-## Hi, I'm Daerong 🙋‍♂️ 
+## Hi, I'm Daerong
 
 ### Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daerong&hide=issues)
